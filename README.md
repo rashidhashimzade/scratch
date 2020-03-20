@@ -1,2 +1,2 @@
 # scratch
-This is Ramin scratch repository
+This is Rashid scratch repository
